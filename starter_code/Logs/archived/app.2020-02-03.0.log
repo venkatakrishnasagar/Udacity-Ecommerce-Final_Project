@@ -1,0 +1,8 @@
+2020-02-03 15:59:41,468 INFO com.example.demo.SareetaApplication [main] Starting SareetaApplication on DESKTOP-HCTONNJ with PID 7420 (started by sagar in C:\WorkSpace\Udacity\FinalSubmission\P04-eCommerce Application\starter_code)
+2020-02-03 15:59:41,471 DEBUG com.example.demo.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-02-03 15:59:41,472 INFO com.example.demo.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2020-02-03 15:59:46,923 INFO com.example.demo.SareetaApplication [main] Started SareetaApplication in 5.985 seconds (JVM running for 6.736)
+2020-02-03 17:13:08,737 INFO com.example.demo.SareetaApplication [main] Starting SareetaApplication on DESKTOP-HCTONNJ with PID 820 (started by sagar in C:\WorkSpace\Udacity\FinalSubmission\P04-eCommerce Application\starter_code)
+2020-02-03 17:13:08,744 DEBUG com.example.demo.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-02-03 17:13:08,745 INFO com.example.demo.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2020-02-03 17:13:18,418 INFO com.example.demo.SareetaApplication [main] Started SareetaApplication in 10.468 seconds (JVM running for 11.941)
